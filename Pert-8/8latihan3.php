@@ -12,5 +12,5 @@ repeat("HEYYY ANTEK-ANTEK ASEENG", 100);
 
 // calling repeat with just one argument
 repeat("You're the man");
-//Project 7.10 By AKBAR FAUZI MUTAQIN - 221011450673
+//Project 7.10 By LILI NURHALIM - 2221011450310
 ?>
