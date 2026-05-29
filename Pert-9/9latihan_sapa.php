@@ -6,5 +6,5 @@ function sapa($nama) {
 echo sapa("Akbar"); // Output: Halo, Akbar!
 echo "<br />";
 echo sapa("Dhea"); // Output: Halo, Dhea!
-// Project 9.1 By AKBAR FAUZI MUTAIQN - 221011450673
+// Project 9.1 By LILI NURHALIM - 221011450310
 ?>
