@@ -45,4 +45,4 @@ if ($_POST) {
 ?>
 </body>
 </html>
-<!-- Project 8.2 By AKBAR FAUZI MUTAQIN - 221011450673 -->
+<!-- Project 8.2 By LILI NURHALIM - 221011450310 -->
