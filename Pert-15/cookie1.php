@@ -1,7 +1,7 @@
 <?php
 // Ganti nilai variabel di bawah ini sesuai request
-$value = 'Jaka';
-$value2 = 'Jaka Oktavian';
+$value = 'halim';
+$value2 = 'Lili Nurhalim';
 
 // Mengeset cookie dengan nilai yang baru
 setcookie("username", $value);
