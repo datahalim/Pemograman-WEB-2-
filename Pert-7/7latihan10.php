@@ -13,5 +13,5 @@ if (in_array(1.13, $tipe, TRUE)) {
 } else {
     echo "Bilangan 1.13 tidak ada di dalam array";
 }
-//Project 7.10 By AKBAR FAUZI MUTAQIN - 221011450673
+//Project 7.10 By LILI NURHALIM - 221011450310
 ?>
