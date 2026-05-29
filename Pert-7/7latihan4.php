@@ -11,5 +11,5 @@ if ($scan == false) {
 echo "\$var = array(1,2,3,4,5,6,7)";
 echo "<br>";
 echo "Variabel \$var $status merupakan array";
-//Project 7.10 By AKBAR FAUZI MUTAQIN - 221011450673
+//Project 7.10 By LILI NURHALIM - 221011450310
 ?>
